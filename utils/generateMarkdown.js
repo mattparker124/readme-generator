@@ -63,7 +63,6 @@ ${data.contribution}
 ${data.testing}
 
 ## Questions
-${data.questions}
 ${data.github}
 ${data.email}
 

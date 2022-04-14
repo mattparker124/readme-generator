@@ -1,9 +1,9 @@
-# greathrsth
+# Test Project
 
-![GitHub license](https://img.shields.io/badge/license-GNU_AGPLv3-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT_License-blue.svg)
 
 ## Description
-srthsrths
+This project is for testing
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,24 +14,24 @@ srthsrths
 - [Questions](#questions)
 
 ## Installation
-rthsrthsrthsrth
+Download the file!
 
 ## Usage
-srthrsthsrthrsth
+Used to test things
 
 ## License
-[License](#https://opensource.org/licenses/GNU_AGPLv3)
+[License](#https://opensource.org/licenses/MIT_License)
 
-This project is made under the GNU_AGPLv3 license.
+This project is made under the MIT_License license.
 
 ## Contributing
-srthrsthrsth
+Contribute using these guidelines
 
 ## Tests
-rsthrsthsrth
+This is how you test the file
 
 ## Questions
 undefined
-thsrth
-rtshrsth
+TestUsername
+Test@gmail.com
 
