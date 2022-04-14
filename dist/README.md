@@ -31,7 +31,6 @@ Contribute using these guidelines
 This is how you test the file
 
 ## Questions
-undefined
 TestUsername
 Test@gmail.com
 
